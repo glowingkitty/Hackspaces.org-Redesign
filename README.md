@@ -9,3 +9,5 @@ Want to support the development and stay updated?
 ## Join the development!
 
 [Fill out this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf0ml9ZxM_0V_2RFZLQY4frIRDCr9CJ3rsasVyM5OuXjZbeOQ/viewform?usp=sf_link)
+
+[link to the meeting notes](https://github.com/glowingkitty/Hackspaces.org-Redesign/wiki/Meeting-Notes---2020-July-28)
