@@ -12,4 +12,4 @@ Want to support the development and stay updated?
 
 [Matrix (chat)](https://riot.hope.net/#/room/#hackerspaces-dot-org:hope.net)
 
-[Figma (for everything design related](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign)
+[Figma (for everything design related)](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign)
