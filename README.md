@@ -1,15 +1,18 @@
 ![Hackspaces.org-Redesign](images/headerimage.jpg "Hackspaces.org-Redesign")
 
-A new website to explain what hackspaces are, making them more accessible for new people and improve collaboration between hackspaces.
+A new website to explain what hackspaces are, making it easier to find existing hackspaces and start new spaces and improve collaboration between hackspaces.
 
-Want to support the development and stay updated?
-
-<a href="https://www.patreon.com/bePatron?u=24983231"><img alt="Become a Patreon" src="images/patreon_button.svg"></a> <a href="https://liberapay.com/glowingkitty/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+## To Do's
+[See the "Issues" tab](https://github.com/glowingkitty/Hackspaces.org-Redesign/issues)
 
 ## Join the development!
 
-[Meeting notes](https://github.com/glowingkitty/Hackspaces.org-Redesign/wiki/Meeting-Notes---2020-July-28)
+Interested in joining the development of the new hackspaces.org website? That's awesome!
+Here are a few resources to get started:
+- **Meeting notes:** first, feel free to [read the meeting notes](https://github.com/glowingkitty/Hackspaces.org-Redesign/wiki/Meeting-Notes---2020-July-28), to see what we discussed so far.
+- **Chat:** [join our chat group on Matrix](https://riot.hope.net/#/room/#hackerspaces-dot-org:hope.net) to communicate with us
+- **Designs:** [take a look and join editing our Figma design file](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign), where we do everything design related
 
-[Matrix (chat)](https://riot.hope.net/#/room/#hackerspaces-dot-org:hope.net)
+## Support the development!
 
-[Figma (for everything design related)](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign)
+<a href="https://www.patreon.com/bePatron?u=24983231"><img alt="Become a Patreon" src="images/patreon_button.svg"></a> <a href="https://liberapay.com/glowingkitty/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
