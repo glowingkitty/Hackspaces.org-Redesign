@@ -7,11 +7,13 @@ A new website to explain what hackspaces are, making it easier to find existing 
 
 ### Current pages
 #### [/ (landingpage)](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign?node-id=184%3A2)
-![/ (landingpage)](design/(landingpage).jpg "/ (landingpage)")
+![/ (landingpage)](design/landingpage.jpg "/ (landingpage)")
 
 #### [/search](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign?node-id=81%3A3)
 ![/search](design/search.jpg "/search")
 
+#### [/space/...](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign?node-id=188%3A193)
+![/space/...](design/space.jpg "/space/...")
 
 
 ## To Do's
