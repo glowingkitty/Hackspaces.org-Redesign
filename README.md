@@ -15,6 +15,9 @@ A new website to explain what hackspaces are, making it easier to find existing 
 #### [/space/...](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign?node-id=188%3A193)
 ![/space/...](design/space.jpg "/space/...")
 
+#### [/event/...](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign?node-id=328%3A0)
+![/event/...](design/event.jpg "/event/...")
+
 
 ## To Do's
 [See the "Issues" tab](https://github.com/glowingkitty/Hackspaces.org-Redesign/issues)
