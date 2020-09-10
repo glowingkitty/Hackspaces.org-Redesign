@@ -9,6 +9,9 @@ A new website to explain what hackspaces are, making it easier to find existing 
 #### [/ (landingpage)](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign?node-id=184%3A2)
 ![/ (landingpage)](design/landingpage.jpg "/ (landingpage)")
 
+#### [/what-are-hackspaces](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign?node-id=212%3A73)
+![/what-are-hackspaces)](design/what_are_hackspaces.jpg "/what-are-hackspaces")
+
 #### [/search](https://www.figma.com/file/0oos6GDzawT7LEK4g7bFR2/Hackspaces.org-Redesign?node-id=81%3A3)
 ![/search](design/search.jpg "/search")
 
